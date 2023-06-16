@@ -1,4 +1,4 @@
-# APSIM_python
+# APSIM optimization with Optuna
 This repository contains some example scripts demonstrating how APSIM Next Generation can be integrated with the Optuna hyperparameter optimization software in a Python environment.
 
 ## Required software:
